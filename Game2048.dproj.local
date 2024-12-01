@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.361,\\Mac\Home\Desktop\kurs\Unit1.pas=\\Mac\Home\Desktop\kurs\ContinueChoiceUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.187,=\\Mac\Home\Desktop\kurs\FieldSetupUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.690,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Project11.dproj=\\Mac\Home\Desktop\kurs\Game2048.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,=\\Mac\Home\Desktop\kurs\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit5.pas=\\Mac\Home\Desktop\kurs\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,=\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,=\\Mac\Home\Desktop\kurs\LoseUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.406,=\\Mac\Home\Desktop\kurs\MenuUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,=\\Mac\Home\Desktop\kurs\LoginUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,\\Mac\Home\Documents\Embarcadero\Studio\Projects\Unit5.dfm=\\Mac\Home\Desktop\kurs\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.499,=\\Mac\Home\Desktop\kurs\SetupAmountU.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,\\Mac\Home\Desktop\kurs\Unit1.dfm=\\Mac\Home\Desktop\kurs\ContinueChoiceUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,=\\Mac\Home\Desktop\kurs\InstructionUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,=\\Mac\Home\Desktop\kurs\SetupRangeUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
